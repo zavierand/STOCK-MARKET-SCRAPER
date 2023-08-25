@@ -8,3 +8,6 @@ The use of APIs throughout the project to gather real-time data is something I w
 
 ## Development and Implementation
 This project will be developed in python to practice webscraping and data mining. In future development of the application, implemenation plans will be in C++ to provide faster compiling time.
+
+## Future
+Future features that I plan to add to this project is a front-end user interface that will allow users to search for stocks with this analyzing tool. Planning to develop the front-end of the application with ReactJS. Another feature I plan to add is a back-end component that will connect the data scraped to the front end of the application.
